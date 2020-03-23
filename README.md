@@ -1,4 +1,4 @@
-# BwE NAND Validator
+# BwE PS3 NAND Validator
 
 Created/Started by BwE on the 3rd March 2013 (Because I was pressured to).
 Greetz/Credit: EussNL, Judges, No0bZiLLa, Rogero, Rebug, deank, 3absiso, AFP, SCE & PS3 Dev Wiki (+ Its Contributers).
